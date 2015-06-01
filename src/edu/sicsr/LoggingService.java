@@ -193,7 +193,7 @@ public class LoggingService extends Service {
 			
 			content = getContent();
 			 // the URL where the file will be posted
-			 String postReceiverUrl = "http://ug.elearning.sicsr.ac.in/local/deviceallocation/log.php";
+			 String postReceiverUrl = "http://pg.elearning.sicsr.ac.in/local/deviceallocation/log.php";
 
 			 // new HttpClient
 			 final HttpClient httpClient = new DefaultHttpClient();
