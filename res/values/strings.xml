@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SICSR Logger for Research</string>
+    <string name="title_activity_main">Logger</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">This app will keep a log of the applications used by you. This data will be used for research in order to find out how well you have used the tablet for educational purposes. Do NOT uninstall this app. Do not Force Stop the app. If you use Force Stop, start the app again by selecting the icon from the launcher screen.</string>
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#306EFF</color>
+</resources>
